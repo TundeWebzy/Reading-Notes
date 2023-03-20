@@ -6,15 +6,16 @@
 
 Hello. My name is Babatunde (Tunde)
 
-A growth mindset is the commitmet to overcome all odds and adversity in the face of achieving one's goal. This is because a person must become what they can if they are to be ultimately be at peace with themselve. 
+A growth mindset is the commitmet to overcome all odds and adversity in the face of achieving one's goal. A growth mindset means developing an attitude of an unstopable achiever. This is because a person must become what they can if they are to be ultimately be at peace with themselve. 
 
 > Apart from my interest to become a software developer, I am also interested in the following:
 
 - Writing
-- Researchig (prospecting researching)
+- Researchig (prospecting researching to help charity organisation)
 - Football
 - Gaming
 - Tourism
+- Public policy
 
 #### About this note
 

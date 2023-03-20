@@ -11,10 +11,10 @@ A growth mindset is the commitmet to overcome all odds and adversity in the face
 Apart from my interest to become a software developer, I am also interested in the following:
 
 > Writing
-> Researchig (prospecting researching)
-> Football
-> Gaming
-> Tourism
+- Researchig (prospecting researching)
+- Football
+- Gaming
+- Tourism
 
 #### About this note
 
